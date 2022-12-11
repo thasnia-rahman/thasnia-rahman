@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for a job in software engineering
 - 🌱 I’m currently learning how to work with SQL.
 - 📫 How to reach me: Email: thasnia.rahman00@gmail.com
+- ** LINKEDIN: https://www.linkedin.com/in/thasniarahman/ **
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am currently completing a software engineering bootcamp with hyperionDev.
 -->
